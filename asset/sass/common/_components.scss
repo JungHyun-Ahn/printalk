@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* 
+	컴포넌트 스타일
+	:: icon
+	:: Button ,badge
+	:: Form
+	:: box 
+	:: list
+	:: Modal 
+	:: Swiper
+*/
+
+// Button
+.bt {
+	padding: rempx(14px) rempx(28px);
+	font-size: rempx(20px);
+	color: #0F42A1;
+	font-weight: 700;
+	background: #fff;
+	border-radius: 100px;
+}

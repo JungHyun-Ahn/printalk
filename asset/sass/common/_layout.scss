@@ -1,0 +1,12 @@
+@charset "utf-8";
+// 레이아웃
+body{
+    font-family: $font-kor;
+    padding: 0 !important;
+}
+// content 
+.container{
+    max-width: none;
+    padding-left: var(--space);
+    padding-right: var(--space);
+}

@@ -1,0 +1,27 @@
+// Grid
+$grid-breakpoints: ( 
+	"sm": 576px,
+	"md": 768px,
+	"lg": 996px,
+	"xl": 1200px,
+	"xxl": 1600px,
+);
+$mobilevh : calc((var(--vh, 1vh) * 100)) ;
+
+// Typography
+$font-kor: 'SUIT', sans-serif;;
+$font-eng: "Outfit", sans-serif;
+
+$base-rem: 18px;
+$base-rem-mobile: 14px;
+
+$line-height-base: 1.6;
+
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 600;
+$font-weight-bolder: 700;
+$font-weight-extra-bold: 800;
+$font-weight-black: 900;
+
